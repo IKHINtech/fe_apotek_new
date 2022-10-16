@@ -1,10 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:sidebarx/sidebarx.dart';
 
-void main() {
-  runApp(SidebarXExampleApp());
-}
-
 class SidebarXExampleApp extends StatelessWidget {
   SidebarXExampleApp({Key? key}) : super(key: key);
 
